@@ -1,2 +1,2 @@
 # Apploy
-Some fix for Windows 10
+Some fixes for Windows 10
